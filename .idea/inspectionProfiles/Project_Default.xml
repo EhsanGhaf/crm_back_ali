@@ -1,0 +1,66 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="arrow" />
+          <option value="attrs" />
+          <option value="autobahn" />
+          <option value="Automat" />
+          <option value="beautifulsoup4" />
+          <option value="binaryornot" />
+          <option value="boto3" />
+          <option value="botocore" />
+          <option value="channels" />
+          <option value="channels_redis" />
+          <option value="chardet" />
+          <option value="constantly" />
+          <option value="cookiecutter" />
+          <option value="cron_descriptor" />
+          <option value="cryptography" />
+          <option value="daphne" />
+          <option value="distro" />
+          <option value="django-celery-beat" />
+          <option value="django-storages" />
+          <option value="django-tailwind" />
+          <option value="django-timezone-field" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="hyperlink" />
+          <option value="incremental" />
+          <option value="Jinja2" />
+          <option value="jiter" />
+          <option value="jmespath" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="mdurl" />
+          <option value="msgpack" />
+          <option value="openai" />
+          <option value="pyasn1" />
+          <option value="pydantic" />
+          <option value="Pygments" />
+          <option value="pyOpenSSL" />
+          <option value="python-crontab" />
+          <option value="python-slugify" />
+          <option value="PyYAML" />
+          <option value="rich" />
+          <option value="s3transfer" />
+          <option value="service-identity" />
+          <option value="slack_sdk" />
+          <option value="sniffio" />
+          <option value="soupsieve" />
+          <option value="text-unidecode" />
+          <option value="tqdm" />
+          <option value="Twisted" />
+          <option value="txaio" />
+          <option value="types-python-dateutil" />
+          <option value="typing-inspection" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
